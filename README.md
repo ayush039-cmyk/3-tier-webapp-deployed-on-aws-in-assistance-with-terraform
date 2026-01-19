@@ -13,6 +13,8 @@ Core Components
 
     Database Tier: Amazon Aurora (MySQL compatible) RDS cluster with a primary instance and a read replica for data redundancy and performance.
 
+    ![Architecture Diagram](images/3TierArch.png)
+
 ## Architecture Breakdown
 1. Presentation Layer (Web Tier)
 
